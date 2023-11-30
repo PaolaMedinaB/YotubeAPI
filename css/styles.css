@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.search-container {
+    margin-bottom: 20px;
+}
+
+#results-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.video {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#pagination-container {
+    margin-top: 20px;
+}
